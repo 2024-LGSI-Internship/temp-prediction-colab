@@ -1,8 +1,6 @@
-# temp-prediction-colab
+# Temperature Prediction Data Analysis
 
-### 1. Data Preprocessing
-
----
+## 1. Data Preprocessing
 
 1. Select only June, July, August and September
     
@@ -36,9 +34,8 @@
     - ‘L’ is between 0 and 615,605
     - ‘M’ is between 0 and 3,726
 
-### 2. Modeling
+## 2. Modeling
 
----
 
 1. Try Randomized Search
     
